@@ -1,6 +1,0 @@
-{
-  "name": "Precificação baseada em comparativo com influencers da região",
-  "description": "Estudo de precificação e comparativo com influencers da região para proposta comercial.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
